@@ -1,0 +1,20 @@
+[
+  {
+    "name": "2020-Command-Robot + Color (in project 2020-Command-Robot + Color)",
+    "file": "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\2020-Command-Robot + Color\\build\\libs\\2020-Command-Robot + Color.jar",
+    "extensions": [
+      "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\2020-Command-Robot + Color\\build\\tmp\\expandedArchives\\halsim_gui-2020.3.2-windowsx86-64.zip_45369a593bb959ce657791ae7ab7334a\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\2020-Command-Robot + Color\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  },
+  {
+    "name": "MBB_CommandV2 (in project MBB_CommandV2)",
+    "file": "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\MBB_CommandV2\\build\\libs\\MBB_CommandV2.jar",
+    "extensions": [
+      "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\MBB_CommandV2\\build\\tmp\\expandedArchives\\halsim_gui-2020.1.2-windowsx86-64.zip_0ded91afab576f356c80ba4c4e7b8310\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\MBB_CommandV2\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]

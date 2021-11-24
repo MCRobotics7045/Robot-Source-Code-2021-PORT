@@ -1,0 +1,11 @@
+[
+  {
+    "name": "2020-Command-Robot + Color (in project 2020-Command-Robot + Color)",
+    "file": "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\2020-Command-Robot + Color\\build\\libs\\2020-Command-Robot + Color.jar",
+    "extensions": [
+      "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\2020-Command-Robot + Color\\build\\tmp\\expandedArchives\\halsim_gui-2020.3.2-windowsx86-64.zip_45369a593bb959ce657791ae7ab7334a\\windows\\x86-64\\shared\\halsim_gui.dll"
+    ],
+    "librarydir": "C:\\Users\\m.bondarowic\\Documents\\FRC2020\\Projects\\2020-Command-Robot + Color\\build\\tmp\\jniExtractDir",
+    "mainclass": "frc.robot.Main"
+  }
+]

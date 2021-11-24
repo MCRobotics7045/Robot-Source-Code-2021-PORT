@@ -1,0 +1,58 @@
+[
+  {
+    "artifact": "frcJava (in project 2020-Command-Robot + Color)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2020-Command-Robot + Color",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project 2020-Command-Robot)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "2020-Command-Robot",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project MBB_CommandV1)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MBB_CommandV1",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project MBB_CommandV2)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MBB_CommandV2",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project MBB_CommandV3)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MBB_CommandV3",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project MBB_CommandV4_Indexer)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MBB_CommandV4_Indexer",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project MBB_CommandV5_ShooterRPM)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MBB_CommandV5_ShooterRPM",
+    "language": "java"
+  },
+  {
+    "artifact": "frcJava (in project MBB_CommandV6_BreakSensors)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "MBB_CommandV6_BreakSensors",
+    "language": "java"
+  }
+]
