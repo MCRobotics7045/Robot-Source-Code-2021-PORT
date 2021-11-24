@@ -1,0 +1,9 @@
+[
+  {
+    "artifact": "frcJava (in project Robot-Source-Code-2021-PORT)",
+    "target": "roborio",
+    "debugfile": "frcJava_roborio.debugconfig",
+    "project": "Robot-Source-Code-2021-PORT",
+    "language": "java"
+  }
+]
